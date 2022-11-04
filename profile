@@ -1,1 +1,2 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+SNS 
+<a href="https://blog.naver.com/0yihyeon" target="_blank"><img src="https://img.shields.io/badge/#03C75A?style=?style=flat&logo=appveyo&logo=naver&logoColor=#000000"/></a>
